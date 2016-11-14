@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musoftware Water Mark", "Musoftware Water Mark\Musoftware Water Mark.csproj", "{B471444E-CBC5-478E-8561-A6D3D43BEC24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musoftware.Tools", "..\Musoftware Text Application\Musoftware.Tools\Musoftware.Tools.csproj", "{FAAECCFB-3C8A-4DE6-833E-B2A2EE881156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B471444E-CBC5-478E-8561-A6D3D43BEC24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B471444E-CBC5-478E-8561-A6D3D43BEC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B471444E-CBC5-478E-8561-A6D3D43BEC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B471444E-CBC5-478E-8561-A6D3D43BEC24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAAECCFB-3C8A-4DE6-833E-B2A2EE881156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAAECCFB-3C8A-4DE6-833E-B2A2EE881156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAAECCFB-3C8A-4DE6-833E-B2A2EE881156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAAECCFB-3C8A-4DE6-833E-B2A2EE881156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

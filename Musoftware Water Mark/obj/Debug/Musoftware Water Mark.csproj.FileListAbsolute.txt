@@ -1,0 +1,11 @@
+F:\123NewLive\Musoftware Water Mark\Musoftware Water Mark\bin\Debug\Musoftware Water Mark.exe
+F:\123NewLive\Musoftware Water Mark\Musoftware Water Mark\bin\Debug\Musoftware Water Mark.pdb
+F:\123NewLive\Musoftware Water Mark\Musoftware Water Mark\bin\Debug\Musoftware.Tools.dll
+F:\123NewLive\Musoftware Water Mark\Musoftware Water Mark\bin\Debug\Musoftware.Tools.pdb
+F:\123NewLive\Musoftware Water Mark\Musoftware Water Mark\obj\Debug\Musoftware Water Mark.csprojResolveAssemblyReference.cache
+F:\123NewLive\Musoftware Water Mark\Musoftware Water Mark\obj\Debug\Musoftware_Water_Mark.Frmmain.resources
+F:\123NewLive\Musoftware Water Mark\Musoftware Water Mark\obj\Debug\Musoftware_Water_Mark.Properties.Resources.resources
+F:\123NewLive\Musoftware Water Mark\Musoftware Water Mark\obj\Debug\Musoftware Water Mark.csproj.GenerateResource.Cache
+F:\123NewLive\Musoftware Water Mark\Musoftware Water Mark\obj\Debug\Musoftware Water Mark.exe
+F:\123NewLive\Musoftware Water Mark\Musoftware Water Mark\obj\Debug\Musoftware Water Mark.pdb
+F:\123NewLive\Musoftware Water Mark\Musoftware Water Mark\bin\Debug\Musoftware Water Mark.exe.config
